@@ -86,29 +86,18 @@ a{
     line-height: 2;
 }
 
-.html-img{
-    width: 25%;
+.html-img , .css-img{
+    width: 15%;
     float: left;
     margin-right: 30px;
 }
 
-.boot-img{
-    width: 25%;
+.boot-img, .js-img{
+    width: 15%;
     float: right;
     margin-left: 30px;
 }
 
-.css-img{
-    width: 25%;
-    float: left;
-    margin-right: 30px;
-}
-
-.js-img{
-    width: 25%;
-    float: right;
-    margin-left: 30px;
-}
 
 .contact-me{
     margin-top: 80px;
