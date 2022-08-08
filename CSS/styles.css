@@ -15,7 +15,6 @@ h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
     color: #66BFBF;
-    font-weight: normal;
 }
 
 h3{
@@ -100,7 +99,7 @@ a{
 
 
 .contact-me{
-    margin-top: 80px;
+    margin-top: 30px;
 }
 
 .contact{
